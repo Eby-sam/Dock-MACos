@@ -11,7 +11,6 @@
 <body>
 
     <div id="container">
-
     </div>
 
     <script src="/assets/js/app.js"></script>

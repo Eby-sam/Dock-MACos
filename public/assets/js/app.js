@@ -74,7 +74,7 @@ let Icons = function (array1, array2, array3) {
              */
             let link = document.createElement("a");
             link.href = array2[i];
-
+            link.target = 'blank';
             /**
              * creating tags img
              * @type {HTMLImageElement}
