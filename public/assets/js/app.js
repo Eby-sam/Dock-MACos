@@ -69,7 +69,7 @@ let Icons = function (array1, array2, array3) {
         for (let i = 0; i < this.array1.length && this.array2.length && this.array3.length; i++) {
 
             /**
-             * creating tags a
+             * creating tags a + target
              * @type {HTMLAnchorElement}
              */
             let link = document.createElement("a");
