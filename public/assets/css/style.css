@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('/assets/img/Apple.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+}
+
+img {
+    width: 4rem;
+    margin-right: 0.5rem;
+}
+
+#container {
+    position: absolute;
+    bottom: 5%;
+    left: 30%;
+}
